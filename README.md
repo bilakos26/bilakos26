@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilakos26&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # Leetcode Stats :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bilakos26?theme=nord)](https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/bilakos26?theme=nord)](https://leetcode.com/bilakos26)
