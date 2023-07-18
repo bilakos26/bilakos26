@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-John-->>Alice: Great!
-Alice-)John: See you later!
-```
-
 # 💫Python Junior Developer :
 - 👨🏻‍💻I'm currently freelancing as a Python Junior Developer.
 - 📚 My experience comes from self learning and some courses I have taken.
